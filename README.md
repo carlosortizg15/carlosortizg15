@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Carlos%20Ortiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=51&descSize=20)
-# ¡Hola! Soy Carlos Ortiz 👋
+# ¡Hola! Soy Carlos Ortiz 
 ### Estudiante de Ingeniería de Sistemas | MERN Stack Developer | Tech Enthusiast
 
 <p align="left">
