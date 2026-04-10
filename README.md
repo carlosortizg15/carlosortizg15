@@ -8,3 +8,4 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu-E94333?style=flat&logo=ubuntu&logoColor=white" />
 </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Carlos%20Ortiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=51&descSize=20)
