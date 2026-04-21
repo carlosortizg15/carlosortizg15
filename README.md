@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rishav Anand!  
+## HOla 👋, Soy Carlos Daniel!  
   
 
 <a href="https://github.com/rishavanand" target="_blank">
@@ -23,10 +23,9 @@
 
 
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+### Un gusto de verte aquí!
+Estoy cursando el séptimo semestre de Ingeniería de Sistemas en la Fundación Universitaria Antonio de Arévalo, donde estoy construyendo las bases sólidas para mi carrera profesional. Actualmente cuento con un nivel de inglés B1. Mi principal enfoque está en el desarrollo Backend, especializándome en el stack MERN para diseñar arquitecturas robustas y escalables. Soy un apasionado de la tecnología, siempre estoy dispuesto y entusiasmado por aprender nuevas herramientas que me ayuden a crecer como ingeniero.
+  
   
 
 <br/>  
