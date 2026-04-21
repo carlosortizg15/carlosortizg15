@@ -1,3 +1,4 @@
+
 # ¡Hola! Soy Carlos Daniel 👋
 
 <p align="center">
@@ -45,15 +46,15 @@
 <table align="center" style="border: none; background: none;">
   <tr>
     <td align="center" style="border: none; background: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de Carlos Daniel" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carlosortizg15&show_icons=true&theme=radical" alt="Estadísticas de Carlos Daniel" />
     </td>
     <td align="center" style="border: none; background: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados de Carlos Daniel" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosortizg15&layout=compact&theme=radical" alt="Lenguajes más usados de Carlos Daniel" />
     </td>
   </tr>
 </table>
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical" alt="Gráfico de racha de Carlos Daniel" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosortizg15&theme=radical" alt="Gráfico de racha de Carlos Daniel" width="100%" />
 </p>
