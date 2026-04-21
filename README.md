@@ -2,7 +2,7 @@
 # ¡Hola! Soy Carlos Daniel 👋
 
 <p align="center">
-  <img src="./NOMBRE_DE_TU_BANNER_EDITADO.png" alt="Banner de Carlos Daniel" width="100%" />
+  <img src="./jpeg" alt="Banner de Carlos Daniel" width="100%" />
 </p>
 
 <p align="center">
