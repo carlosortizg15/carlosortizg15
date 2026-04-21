@@ -46,15 +46,15 @@
 <table align="center" style="border: none; background: none;">
   <tr>
     <td align="center" style="border: none; background: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=carlosortizg15&show_icons=true&theme=tokyonight" alt="Estadísticas de Carlos Daniel" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carlosortizg15&show_icons=true&theme=dark" alt="Estadísticas de Carlos Daniel" />
     </td>
     <td align="center" style="border: none; background: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosortizg15&layout=compact&theme=tokyonight" alt="Lenguajes más usados de Carlos Daniel" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosortizg15&layout=compact&theme=dark" alt="Lenguajes más usados de Carlos Daniel" />
     </td>
   </tr>
 </table>
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosortizg15&theme=tokyonight" alt="Gráfico de racha de Carlos Daniel" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosortizg15&theme=dark" alt="Gráfico de racha de Carlos Daniel" width="100%" />
 </p>
